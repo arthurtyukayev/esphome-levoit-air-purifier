@@ -52,7 +52,7 @@ fan:
   - platform: levoit
     name: Levoit Purifier
 
-#sensor:
+sensor:
 #   Uptime sensor.
 #  - platform: uptime
 #    name: Uptime
